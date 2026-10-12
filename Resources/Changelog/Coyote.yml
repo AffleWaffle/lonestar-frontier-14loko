@@ -4360,3 +4360,10 @@ Entries:
   id: 476
   time: '2026-10-12T01:49:37.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/167
+- author: Sushiburger
+  changes:
+    - type: Tweak
+      message: Tweaked layering on the Australian Shepherd Tail
+  id: 477
+  time: '2026-10-12T11:58:46.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/252
