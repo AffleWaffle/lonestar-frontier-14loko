@@ -4340,3 +4340,12 @@ Entries:
   id: 474
   time: '2026-10-11T01:03:34.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/244
+- author: Synthestra
+  changes:
+    - type: Fix
+      message: Flipped windoors now rotate correctly when rotating your camera.
+    - type: Fix
+      message: South-facing windoors now display in the correct direction.
+  id: 475
+  time: '2026-10-12T01:31:45.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/249
