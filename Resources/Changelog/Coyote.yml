@@ -4349,3 +4349,14 @@ Entries:
   id: 475
   time: '2026-10-12T01:31:45.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/249
+- author: archee1
+  changes:
+    - type: Add
+      message: a new Gorlex bunnysuit is buyable from the syndie drobe.
+    - type: Tweak
+      message: >-
+        Blood-red bunnysuits are now buyable from the syndie drobes hacked
+        inventory
+  id: 476
+  time: '2026-10-12T01:49:37.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/167
