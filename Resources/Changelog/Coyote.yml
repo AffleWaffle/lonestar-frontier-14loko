@@ -4367,3 +4367,10 @@ Entries:
   id: 477
   time: '2026-10-12T11:58:46.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/252
+- author: Sushiburger
+  changes:
+    - type: Add
+      message: Palm Trees
+  id: 478
+  time: '2026-10-13T04:07:34.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/251
