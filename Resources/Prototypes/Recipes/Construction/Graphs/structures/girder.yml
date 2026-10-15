@@ -468,7 +468,7 @@
           completed:
             - !type:SpawnPrototype
               prototype: SheetPlasteel1
-              amount: 2
+              amount: 1
             - !type:SpawnPrototype
               prototype: SheetSteel1
               amount: 1
