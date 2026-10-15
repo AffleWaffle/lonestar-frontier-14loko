@@ -51,10 +51,10 @@
     - !type:TileNotBlocked
 
 - type: construction
-  id: WallReinforcedDiagonal
+  id: ReinforcedWall
   graph: Girder
   startNode: start
-  targetNode: reinforceddiagonalWall
+  targetNode: reinforcedWall
   category: construction-category-structures
   objectType: Structure
   placementMode: SnapgridCenter
@@ -64,10 +64,10 @@
     - !type:TileNotBlocked
 
 - type: construction
-  id: ReinforcedWall
+  id: WallReinforcedDiagonal
   graph: Girder
   startNode: start
-  targetNode: reinforcedWall
+  targetNode: reinforceddiagonalWall
   category: construction-category-structures
   objectType: Structure
   placementMode: SnapgridCenter

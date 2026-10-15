@@ -272,10 +272,10 @@
               amount: 2
               doAfter: 1
   
-    - node: reinforcedGirder
-      entity: ReinforcedGirder
+    - node: diagonalreinforcedWall
+      entity: ReinforcedGirderDiagonal
       edges:
-        - to: reinforceddiagonalWall
+        - to: reinforcedWall
           completed:
             - !type:SnapToGrid
               southRotation: true
@@ -440,7 +440,7 @@
               doAfter: 4
 
     - node: reinforceddiagonalWall
-      entity: WallReinforcedDiagonal
+      entity: ReinforcedGirderDiagonal
       edges:
         - to: reinforcedGirder
           completed:
