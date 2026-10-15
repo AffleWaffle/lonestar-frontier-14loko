@@ -51,19 +51,6 @@
     - !type:TileNotBlocked
 
 - type: construction
-  id: WallReinforcedDiagonal
-  graph: Girder
-  startNode: start
-  targetNode: reinforceddiagonalWall
-  category: construction-category-structures
-  objectType: Structure
-  placementMode: SnapgridCenter
-  canRotate: false
-  canBuildInImpassable: false
-  conditions:
-    - !type:TileNotBlocked
-
-- type: construction
   id: ReinforcedWall
   graph: Girder
   startNode: start
@@ -78,13 +65,14 @@
 
 - type: construction
   id: WallReinforcedDiagonal
+  name: 
   graph: Girder
   startNode: start
   targetNode: reinforceddiagonalWall
   category: construction-category-structures
   objectType: Structure
   placementMode: SnapgridCenter
-  canRotate: false
+  canRotate: true
   canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
