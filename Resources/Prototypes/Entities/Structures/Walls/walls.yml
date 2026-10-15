@@ -762,12 +762,12 @@
           collection: MetalSlam
       - !type:DoActsBehavior
         acts: ["Destruction"]
-  - type: Construction # Coyote
+  - type: Construction # Lonestar
     graph: Girder
     node: reinforceddiagonalWall
   - type: RadiationBlocker
     resistance: 5
-  - type: RCDDeconstructable # Coyote
+  - type: RCDDeconstructable # Lonestar
     deconstructable: true
     cost: 6
     delay: 8
@@ -1105,7 +1105,7 @@
           collection: MetalSlam
       - !type:DoActsBehavior
         acts: ["Destruction"]
-  - type: RCDDeconstructable # Coyote
+  - type: RCDDeconstructable # Lonestar
     deconstructable: true
     cost: 6
     delay: 8

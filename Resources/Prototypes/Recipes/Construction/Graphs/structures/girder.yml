@@ -271,7 +271,7 @@
             - material: Plasteel
               amount: 2
               doAfter: 1
-
+        # Lonestar - Diagonal Wall
         - to: reinforceddiagonalWall
           conditions:
             - !type:EntityAnchored { }
@@ -281,6 +281,7 @@
             - material: Plasteel
               amount: 1
               doAfter: 1
+        # Lonestar - End
 
         - to: shuttleWall
           completed:
@@ -375,7 +376,7 @@
                   data: 0
             - tool: Cutting
               doAfter: 1
-
+    # Lonestar - Diagonal Wall
     - node: reinforceddiagonalWall
       entity: WallReinforcedDiagonal
       edges:
@@ -403,6 +404,7 @@
               doAfter: 1
             - tool: Cutting
               doAfter: 1
+    # Lonestar - End
 
     - node: shuttleWall
       entity: WallShuttle

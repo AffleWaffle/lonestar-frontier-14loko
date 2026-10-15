@@ -63,6 +63,7 @@
   conditions:
     - !type:TileNotBlocked
 
+# Lonestar - Diagonal Wall
 - type: construction
   id: WallReinforcedDiagonal
   name: 
@@ -76,6 +77,7 @@
   canBuildInImpassable: false
   conditions:
     - !type:TileNotBlocked
+# Lonestar - End
 
 - type: construction
   id: WallClock
