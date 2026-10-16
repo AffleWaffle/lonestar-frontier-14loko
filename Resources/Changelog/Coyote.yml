@@ -4403,3 +4403,10 @@ Entries:
   id: 481
   time: '2026-10-16T10:58:49.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/230
+- author: archee1
+  changes:
+    - type: Tweak
+      message: Chemical barrels hitboxes now better match their visuals.
+  id: 482
+  time: '2026-10-16T19:41:05.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/265
