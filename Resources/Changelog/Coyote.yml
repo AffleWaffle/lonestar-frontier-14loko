@@ -4394,3 +4394,12 @@ Entries:
   id: 480
   time: '2026-10-14T17:02:29.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/254
+- author: tenmillimaster
+  changes:
+    - type: Add
+      message: >-
+        Cherrypicked shaker, teatime and piety lathe/uniform printer recipes
+        from upstream
+  id: 481
+  time: '2026-10-16T10:58:49.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/230
