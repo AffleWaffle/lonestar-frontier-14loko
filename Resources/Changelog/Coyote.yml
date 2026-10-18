@@ -4426,3 +4426,12 @@ Entries:
   id: 484
   time: '2026-10-16T19:55:09.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/261
+- author: Sushiburger
+  changes:
+    - type: Add
+      message: >-
+        You can now construct 'prop' double beds and apply a range of bedsheets
+        to them.
+  id: 485
+  time: '2026-10-18T05:58:16.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/239
