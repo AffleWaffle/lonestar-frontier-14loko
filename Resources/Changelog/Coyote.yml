@@ -4490,3 +4490,10 @@ Entries:
   id: 490
   time: '2026-10-18T13:03:25.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/271
+- author: tenmillimaster
+  changes:
+    - type: Tweak
+      message: Ethanol, nicotine and Trico rad healing changes
+  id: 491
+  time: '2026-10-18T13:31:51.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/242
