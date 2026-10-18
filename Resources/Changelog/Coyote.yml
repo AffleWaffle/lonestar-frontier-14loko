@@ -4470,3 +4470,12 @@ Entries:
   id: 488
   time: '2026-10-18T12:27:03.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/270
+- author: Sushiburger
+  changes:
+    - type: Add
+      message: >-
+        Port of Shaman's Mantis clothes. In the PietyVend. PDA and headset in
+        loadout.
+  id: 489
+  time: '2026-10-18T12:34:53.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/259
