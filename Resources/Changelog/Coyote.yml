@@ -4435,3 +4435,16 @@ Entries:
   id: 485
   time: '2026-10-18T05:58:16.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/239
+- author: trashqueenlily
+  changes:
+    - type: Tweak
+      message: Trashbags no longer collect chemistry related things.
+    - type: Tweak
+      message: Trashbags no longer collect all cardboard boxes up.
+    - type: Tweak
+      message: >-
+        Bluespace trash bags are now [4x4 -> 2x2] in bag, but are [20x10
+        ->15x10] inside
+  id: 486
+  time: '2026-10-18T06:08:09.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/197
