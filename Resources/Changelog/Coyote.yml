@@ -4479,3 +4479,14 @@ Entries:
   id: 489
   time: '2026-10-18T12:34:53.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/259
+- author: archee1
+  changes:
+    - type: Add
+      message: Adds support for colorability to a bunch of extra clothing items.
+    - type: Tweak
+      message: >-
+        The primary color palette used by colorable clothing has been
+        re-organized
+  id: 490
+  time: '2026-10-18T13:03:25.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/271
