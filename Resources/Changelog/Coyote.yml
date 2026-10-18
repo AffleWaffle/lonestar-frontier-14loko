@@ -4448,3 +4448,12 @@ Entries:
   id: 486
   time: '2026-10-18T06:08:09.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/197
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        Colourable clothing is now recoloured with a UI instead of by
+        randomizing it until you are happy.
+  id: 487
+  time: '2026-10-18T06:36:59.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/260
