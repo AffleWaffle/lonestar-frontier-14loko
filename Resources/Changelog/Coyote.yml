@@ -4457,3 +4457,16 @@ Entries:
   id: 487
   time: '2026-10-18T06:36:59.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/260
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        Holo-parasites can no longer be bought from contra-vends or found from
+        surplus crates.
+    - type: Tweak
+      message: >-
+        Player summoned drained-ones (cult amulet ghosts) can now be shot by
+        ballistics weapons.
+  id: 488
+  time: '2026-10-18T12:27:03.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/270
