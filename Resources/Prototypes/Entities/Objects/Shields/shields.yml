@@ -503,6 +503,7 @@
         groups:
           Brute: -3
 
+# Lonestar - Start
 - type: entity
   name: enforcer energy shield
   parent: [BaseShield, BaseC2Contraband] # Frontier: BaseSyndicateContraband<BaseC4Contraband
@@ -584,7 +585,6 @@
                   pitch: 0.8
     - type: StaticPrice
       price: 350
-    # LoneStar
     - type: PassiveDamage
       damage:
         types:
@@ -592,6 +592,7 @@
           Cold: -0.5
         groups:
           Brute: -3
+# Lonestar - End
 
 - type: entity
   name: broken energy shield

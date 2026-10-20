@@ -119,6 +119,7 @@
   inhand:
     - KukriKnife
 
+# Lonestar - Start
 # Syndicate Security Enforcer
 - type: startingGear
   id: SyndicateNavalGearT3Enforcer
@@ -126,13 +127,13 @@
     head: ClothingHeadHelmetHardsuitCybersun
     jumpsuit: ClothingUniformJumpsuitOperative
     shoes: ClothingShoesBootsMagSyndie
-    gloves: ClothingHandsGlovesColorBlack
     outerClothing: ClothingOuterHardsuitJuggernaut
     back: ClothingBackpackSyndicateT3Operative
     belt: ClothingBeltSyndicateLootRangedT3Operative
     wallet: ClothingWalletSyndicateT3
   inhand:
     - EnergyShieldEnforcer
+# Lonestar - End
 
 # Syndicate Grenadier
 - type: startingGear
