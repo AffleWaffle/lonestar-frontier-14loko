@@ -762,16 +762,20 @@
           collection: MetalSlam
       - !type:DoActsBehavior
         acts: ["Destruction"]
-  - type: Construction # Lonestar
-    graph: Girder
-    node: reinforceddiagonalWall
   - type: RadiationBlocker
     resistance: 5
-  - type: RCDDeconstructable # Lonestar
+  # Lonestar - Start
+  - type: Construction
+    graph: Girder
+    node: reinforceddiagonalWall
+  - type: RCDDeconstructable
     deconstructable: true
     cost: 6
     delay: 8
     fx: EffectRCDDeconstruct8
+  - type: StaticPrice
+    price: 90
+  # Lonestart - End
 
 # Riveting
 - type: entity
