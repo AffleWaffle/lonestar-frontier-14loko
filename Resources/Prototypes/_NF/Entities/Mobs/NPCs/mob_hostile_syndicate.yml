@@ -188,6 +188,36 @@
       soundGunshot: /Audio/Weapons/Guns/Gunshots/revolver.ogg
 
 - type: entity
+  parent: MobSyndicateNavalBase
+  id: MobSyndicateNavalEnforcerA
+  categories: [ HideSpawnMenu ]
+  name: syndicate captain
+  description: The security enforcer that leads the charge in lieu of the commander, syndicate enforcers ensure offensive operations go smoothly. Equipped with a magnum revolver.
+  components:
+    - type: Sprite
+      layers:
+      - sprite: Objects/Weapons/Guns/Revolvers/mateba.rsi
+        state: inhand-left
+    - type: Loadout
+      prototypes:
+        - SyndicateNavalGearT3Enforcer
+    - type: RechargeBasicEntityAmmo
+      rechargeCooldown: 0.7
+      rechargeSound:
+        path: /Audio/_NF/Effects/silence.ogg
+    - type: BasicEntityAmmoProvider
+      proto: NFCartridgePistol45Overpressure # LoneStar
+      capacity: 1
+      count: 1
+    - type: Gun
+      showExamineText: false
+      fireRate: 0.7
+      selectedMode: SemiAuto
+      availableModes:
+      - SemiAuto
+      soundGunshot: /Audio/Weapons/Guns/Gunshots/revolver.ogg
+
+- type: entity
   parent: MobSyndicateNavalCaptainA
   id: MobSyndicateNavalCaptainB
   categories: [ HideSpawnMenu ]
