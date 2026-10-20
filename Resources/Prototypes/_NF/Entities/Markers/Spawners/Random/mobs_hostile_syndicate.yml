@@ -57,6 +57,37 @@
 # Lonestar - End
 
 - type: entity
+  name: syndicate naval enforcer spawner
+  id: SpawnMobSyndicateNavalEnforcer
+  parent: MarkerBase
+  suffix: AI, Hostile, RND
+  components:
+  - type: Sprite
+    layers:
+      - state: red
+      - state: ai
+      - sprite: _NF/Mobs/Species/Templates/human.rsi
+        state: human
+      - sprite: Clothing/Head/Hats/syndiecap_maa.rsi
+        state: equipped-HELMET
+      - sprite: Clothing/Uniforms/Jumpsuit/tacticool.rsi
+        state: equipped-INNERCLOTHING
+      - sprite: Clothing/Shoes/Boots/jackboots.rsi
+        state: equipped-FEET
+      - sprite: Clothing/OuterClothing/Coats/syndicate/coatsyndiecaparmored.rsi
+        state: equipped-OUTERCLOTHING
+      - sprite: Objects/Weapons/Guns/Revolvers/mateba.rsi
+        state: inhand-right
+  - type: RandomSpawner
+    prototypes:
+    - MobSyndicateNavalEnforcerA
+    chance: 1
+    offset: 0.0
+    rarePrototypes:
+    - MobSyndicateNavalEnforcerA
+    rareChance: 0.1
+
+- type: entity
   name: syndicate naval engineer spawner
   id: SpawnMobSyndicateNavalEngineer
   parent: MarkerBase
