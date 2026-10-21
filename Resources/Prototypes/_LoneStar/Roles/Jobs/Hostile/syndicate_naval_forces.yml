@@ -7,9 +7,9 @@
     shoes: ClothingShoesBootsMagSyndie
     gloves: ClothingHandsGlovesColorBlackWard
     outerClothing: ClothingOuterHardsuitJuggernaut
-    back: ClothingBackpackSyndicateT3Operative
-    belt: ClothingBeltSyndicateLootRangedT3Operative
-    wallet: ClothingWalletSyndicateT3
+    back: ClothingBackpackSyndicateT4Commander
+    belt: ClothingBeltSyndicateLootRangedT4Commander
+    wallet: ClothingWalletSyndicateT4
   inhand:
     - EnergyShieldEnforcer
 
@@ -22,7 +22,8 @@
     shoes: ClothingShoesBootsMagSyndie
     gloves: ClothingHandsGlovesColorBlackAtreides
     outerClothing: ClothingOuterHardsuitJuggernaut
-    back: ClothingBackpackSyndicateT3Operative
-    wallet: ClothingWalletSyndicateT3
+    back: ClothingBackpackSyndicateT4Commander
+    belt: ClothingBeltSyndicateLootRangedT4Commander
+    wallet: ClothingWalletSyndicateT4
   inhand:
     - EnergyShieldEnforcer
