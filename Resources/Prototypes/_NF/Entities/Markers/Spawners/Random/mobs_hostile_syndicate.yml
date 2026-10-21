@@ -46,15 +46,13 @@
       - state: ai
       - sprite: _NF/Mobs/Species/Templates/human.rsi
         state: human
-      - sprite: Objects/Weapons/Melee/enforcer_shield.rsi
-        state: eshield-inhand-right
   - type: RandomSpawner
     prototypes:
     - MobSyndicateNavalEnforcerA
     chance: 1
     offset: 0.0
     rarePrototypes:
-    - MobSyndicateNavalEnforcerA
+    - MobSyndicateNavalEnforcerB
     rareChance: 0.1
 # Lonestar - End
 
@@ -446,6 +444,8 @@
     - MobSyndicateNavalChemwarriorB
     - MobSyndicateNavalChemwarriorC
     - MobSyndicateNavalChemwarriorD
+    - MobSyndicateNavalEnforcerA
+    - MobSyndicateNavalEnforcerB
     chance: 1
     offset: 0.0
     rarePrototypes:

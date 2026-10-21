@@ -127,9 +127,24 @@
     head: ClothingHeadHelmetHardsuitCybersun
     jumpsuit: ClothingUniformJumpsuitOperative
     shoes: ClothingShoesBootsMagSyndie
+    gloves: ClothingHandsGlovesColorBlackWard
     outerClothing: ClothingOuterHardsuitJuggernaut
     back: ClothingBackpackSyndicateT3Operative
     belt: ClothingBeltSyndicateLootRangedT3Operative
+    wallet: ClothingWalletSyndicateT3
+  inhand:
+    - EnergyShieldEnforcer
+
+# Syndicate Security Enforcer (Alt)
+- type: startingGear
+  id: SyndicateNavalGearT3EnforcerAlt
+  equipment:
+    head: ClothingHeadHelmetHardsuitCybersun
+    jumpsuit: ClothingUniformJumpsuitOperative
+    shoes: ClothingShoesBootsMagSyndie
+    gloves: ClothingHandsGlovesColorBlackAtreides
+    outerClothing: ClothingOuterHardsuitJuggernaut
+    back: ClothingBackpackSyndicateT3Operative
     wallet: ClothingWalletSyndicateT3
   inhand:
     - EnergyShieldEnforcer
@@ -188,7 +203,7 @@
     jumpsuit: ClothingUniformJumpsuitPyjamaSyndicateRed
     gloves: ClothingHandsGlovesColorBlackSprayNozzle
     shoes: ClothingShoesBootsWinterSyndicate
-    outerClothing: ClothingOuterWinterSyndie
+    outerClothing: ClothingOuterBioArmoredSyndicate
     eyes: ClothingEyesHudSyndicate
     back: ClothingBackpackSyndicateT3ChemwarriorAlt
     wallet: ClothingWalletSyndicateT3
