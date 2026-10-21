@@ -277,6 +277,7 @@
         color: "#535353"
       - sprite: _NF/Objects/Weapons/Guns/SMGs/atreides.rsi
         state: inhand-left
+# Lonestar - End
 
 - type: entity
   parent: ClothingHandsGlovesColorBlackSMG

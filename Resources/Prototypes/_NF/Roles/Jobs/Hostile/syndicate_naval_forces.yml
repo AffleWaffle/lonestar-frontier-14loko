@@ -203,7 +203,7 @@
     jumpsuit: ClothingUniformJumpsuitPyjamaSyndicateRed
     gloves: ClothingHandsGlovesColorBlackSprayNozzle
     shoes: ClothingShoesBootsWinterSyndicate
-    outerClothing: ClothingOuterBioArmoredSyndicate
+    outerClothing: ClothingOuterBioArmoredSyndicate # Lonestar
     eyes: ClothingEyesHudSyndicate
     back: ClothingBackpackSyndicateT3ChemwarriorAlt
     wallet: ClothingWalletSyndicateT3
