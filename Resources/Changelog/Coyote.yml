@@ -4497,3 +4497,10 @@ Entries:
   id: 491
   time: '2026-10-18T13:31:51.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/242
+- author: Wolfhauler
+  changes:
+    - type: Fix
+      message: Casey atmos , bnuuy drobe unanchorable
+  id: 492
+  time: '2026-10-22T02:23:13.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/277
