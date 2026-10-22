@@ -4504,3 +4504,10 @@ Entries:
   id: 492
   time: '2026-10-22T02:23:13.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/277
+- author: Sushiburger
+  changes:
+    - type: Tweak
+      message: Toeless Jackboots should be available from the usual spots now.
+  id: 493
+  time: '2026-10-22T08:17:27.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/268
