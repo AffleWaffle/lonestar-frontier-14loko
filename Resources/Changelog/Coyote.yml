@@ -4526,3 +4526,10 @@ Entries:
   id: 494
   time: '2026-10-22T08:25:01.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/276
+- author: archee1
+  changes:
+    - type: Fix
+      message: Xeno destruction expeditions no longer spawn xenos indefinetly.
+  id: 495
+  time: '2026-10-22T20:24:05.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/278
