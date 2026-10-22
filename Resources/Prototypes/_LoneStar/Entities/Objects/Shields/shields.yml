@@ -1,4 +1,3 @@
-# Lonestar - Start
 - type: entity
   name: enforcer energy shield
   parent: [BaseShield, BaseC2Contraband] # Frontier: BaseSyndicateContraband<BaseC4Contraband
