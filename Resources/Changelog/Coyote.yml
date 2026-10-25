@@ -4533,3 +4533,10 @@ Entries:
   id: 495
   time: '2026-10-22T20:24:05.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/278
+- author: lexiwitch
+  changes:
+    - type: Add
+      message: Medical Trauma Satchel, now available in loadout and the Medidrobe!
+  id: 496
+  time: '2026-10-25T12:10:54.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/281
