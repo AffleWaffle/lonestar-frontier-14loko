@@ -4554,3 +4554,10 @@ Entries:
   id: 498
   time: '2026-10-26T09:35:20.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/279
+- author: Sushiburger
+  changes:
+    - type: Add
+      message: Divine Thurible to PietyVend and filled Chaplain Sash
+  id: 499
+  time: '2026-10-26T11:00:37.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/274
