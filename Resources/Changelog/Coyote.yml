@@ -4561,3 +4561,12 @@ Entries:
   id: 499
   time: '2026-10-26T11:00:37.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/274
+- author: archee1
+  changes:
+    - type: Tweak
+      message: >-
+        Syndicate/Punk/Merc loot tables have had a second pass for their
+        rarities and what they provide
+  id: 500
+  time: '2026-10-28T02:34:02.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/284
