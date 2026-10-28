@@ -4570,3 +4570,10 @@ Entries:
   id: 500
   time: '2026-10-28T02:34:02.0000000+00:00'
   url: https://github.com/LoneStarSS14/lonestar-frontier/pull/284
+- author: Sushiburger
+  changes:
+    - type: Tweak
+      message: Double Bed tweaks
+  id: 501
+  time: '2026-10-28T02:35:04.0000000+00:00'
+  url: https://github.com/LoneStarSS14/lonestar-frontier/pull/287
