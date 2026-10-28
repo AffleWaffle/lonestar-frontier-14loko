@@ -294,7 +294,7 @@
       rechargeSound:
         path: /Audio/_NF/Effects/silence.ogg
     - type: BasicEntityAmmoProvider
-      proto: DartSyndicateImpedrezene
+      proto: DartSyndicateLeadVestine # LoneStar
       capacity: 1
       count: 1
     - type: Gun
@@ -321,7 +321,7 @@
   categories: [ HideSpawnMenu ]
   components:
     - type: BasicEntityAmmoProvider
-      proto: DartSyndicateTranquilizer
+      proto: DartSyndicateMutagenBenzene # LoneStar
       capacity: 1
       count: 1
 
@@ -331,7 +331,7 @@
   categories: [ HideSpawnMenu ]
   components:
     - type: BasicEntityAmmoProvider
-      proto: DartSyndicateTranquilizer
+      proto: DartSyndicateMutagenBenzene # LoneStar
       capacity: 1
       count: 1
 
@@ -731,6 +731,12 @@
   id: MobSyndicateNavalMedicVoid
   categories: [ HideSpawnMenu ]
   components:
+  # LoneStar - Start
+  - type: BasicEntityAmmoProvider
+    proto: DartSyndicateHeavyLeadVestine
+    capacity: 1
+    count: 1
+  # LoneStar - End
   - type: Loadout
     prototypes:
     - SyndicateNavalMedicVoidGear
