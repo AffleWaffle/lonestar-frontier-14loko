@@ -314,6 +314,11 @@
   parent: MobSyndicateNavalMedicA
   id: MobSyndicateNavalMedicB
   categories: [ HideSpawnMenu ]
+  components:
+    - type: BasicEntityAmmoProvider
+      proto: DartSyndicateLeadVestine # LoneStar
+      capacity: 1
+      count: 1
 
 - type: entity
   parent: MobSyndicateNavalMedicA
